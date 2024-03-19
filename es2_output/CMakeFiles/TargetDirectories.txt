@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/PCS2024_Exercises/Esercitazione_1_IO/es2_output/CMakeFiles/MeanValue.dir
+C:/Users/ASUS/Desktop/PCS2024_Exercises/Esercitazione_1_IO/es2_output/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/PCS2024_Exercises/Esercitazione_1_IO/es2_output/CMakeFiles/rebuild_cache.dir
